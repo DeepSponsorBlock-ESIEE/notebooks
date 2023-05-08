@@ -1,0 +1,13 @@
+youtube_dl
+yt_dlp
+numpy
+pandas
+plotly
+torch
+torchvision
+jupyter
+jupyter_server>
+matplotlib
+tqdm
+librosa
+Pillow
